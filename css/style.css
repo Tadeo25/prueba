@@ -1,0 +1,29 @@
+.t-p0 {
+    padding: 0;
+}
+.t-contacto {
+    color: rgb(255, 186, 59);
+    padding: 8.5px 13px;
+}
+.t-body {
+    margin: 0%;
+}
+
+/* color titulo de secciones */
+.t-tittle {
+    color: rgb(255, 186, 59);
+    border: solid rgb(255, 186, 59);
+    border-radius: 1rem;
+}
+
+/* border de las card */
+.t-card {
+    border: solid black;
+    border-radius: 0.5rem;
+    background-color: rgb(255, 186, 59);
+}
+.t-card:hover {
+    box-shadow: 45px 25px 25px black;
+    transform: translate(5px, 5px);
+    transition: 0.5s;
+}
